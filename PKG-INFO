@@ -1,5 +1,5 @@
 Metadata-Version: 1.0
-Name: foobar3
+Name: installable
 Version: 1.0
 Summary: A minimal stub package to test success of pip install
 Home-page: UNKNOWN
@@ -7,7 +7,7 @@ Author: Winson Luk
 Author-email: winson.luk@gmail.com
 License: MIT
 Description: ****************
-        foobar3
+        installable
         ****************
         A stub package for testing if pip install is working.
         
@@ -23,22 +23,22 @@ Description: ****************
         
         Install::
         
-          pip install foobar3
+          pip install installable
         
         or::
         
-          pip install --user foobar3
+          pip install --user installable
         
         Import:: 
          
-          >>> import foobar3
+          >>> import installable
         
         or::
         
-          python -c 'import foobar3'
+          python -c 'import installable'
         
         Uninstall::
          
-          pip uninstall foobar3
+          pip uninstall installable
         
 Platform: UNKNOWN

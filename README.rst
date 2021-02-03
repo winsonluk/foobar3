@@ -1,5 +1,5 @@
 ****************
-foobar3
+installable
 ****************
 A stub package for testing if pip install is working.
 
@@ -15,20 +15,20 @@ Usage
 
 Install::
 
-  pip install foobar3
+  pip install installable
 
 or::
 
-  pip install --user foobar3
+  pip install --user installable
 
 Import:: 
  
-  >>> import foobar3
+  >>> import installable
 
 or::
 
-  python -c 'import foobar3'
+  python -c 'import installable'
 
 Uninstall::
  
-  pip uninstall foobar3
+  pip uninstall installable
